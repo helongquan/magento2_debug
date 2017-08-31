@@ -1,1 +1,4 @@
-这是nocti本地测试magento2的版本控制系统的测试文本
+这是nocti本地测试magento2的版本控制系统的测试文
+
+今天把magento2_debug这个项目禁用了缓存，以方便调试，看下是否对调试magento有帮助，以加快调试的进度
+
